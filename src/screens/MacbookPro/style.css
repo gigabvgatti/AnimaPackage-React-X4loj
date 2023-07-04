@@ -1,0 +1,77 @@
+.macbook-pro {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.macbook-pro .div {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1117px;
+  position: relative;
+  width: 1728px;
+}
+
+.macbook-pro .conceptual-artist {
+  height: 100px;
+  left: 316px;
+  position: absolute;
+  top: -1301px;
+  width: 304px;
+}
+
+.macbook-pro .text-wrapper {
+  color: #000000;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  height: 184px;
+  left: 600px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 281px;
+  width: 744px;
+}
+
+.macbook-pro .TWITTER-FARCASTER {
+  color: #000000;
+  font-family: "Helvetica-Bold", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  height: 895px;
+  left: 82px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  text-decoration: underline;
+  top: -16px;
+  width: 399px;
+}
+
+.macbook-pro .span {
+  color: #000000;
+  font-family: "Helvetica-Bold", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-decoration: underline;
+}
+
+.macbook-pro .conceptual-art {
+  color: #000000;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  height: 284px;
+  left: 580px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 590px;
+  width: 665px;
+}
